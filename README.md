@@ -26,7 +26,7 @@ AArch64 Installation is similar to [Raspberry Pi 4 installation](https://archlin
 ### Download newest DTB from https://github.com/raspberrypi/firmware/blob/master/boot/bcm2711-rpi-cm4.dtb
 
  </br>
-    Decompile the Device Tree File.
+    Decompile the Device Tree File:
  </br>
 
     dtc -I dtb -O dts bcm2711-rpi-cm4.dtb -o bcm2711-rpi-cm4.dts 
