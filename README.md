@@ -12,7 +12,7 @@ AArch64 Installation is similar to [Raspberry Pi 4 installation](https://archlin
 
 </br>
 
-# Linux 5.16 kernel doesn't have the bcm2711-rpi-cm4.dtb so you can use the fixed precompiled [bcm2711-rpi-cm4.dtb](https://github.com/ivan95603/Arch-Linux-ARM-on-rpi-CM4/predone/bcm2711-rpi-cm4.dtb) file from me or follow the directions below to compile it yourself.
+# Linux 5.16 kernel doesn't have the bcm2711-rpi-cm4.dtb so you can use the fixed precompiled [bcm2711-rpi-cm4.dtb](https://github.com/ivan95603/Arch-Linux-ARM-on-rpi-CM4/blob/main/predone/bcm2711-rpi-cm4.dtb) file from me or follow the directions below to compile it yourself.
 
 
 </br>
